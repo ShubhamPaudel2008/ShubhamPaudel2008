@@ -2,4 +2,4 @@
 
 **Computer Science & Mathematics** @ Northeastern University (Khoury College)
 
-Working toward a career in software engineering.
+Working toward a career in quantitative finance.
